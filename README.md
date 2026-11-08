@@ -1,0 +1,2 @@
+# PROJECT
+my automation project
